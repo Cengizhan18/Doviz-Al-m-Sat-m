@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Döviz_Ofisi", "Döviz_Ofisi\Döviz_Ofisi.csproj", "{55C9CCD8-BBE3-4588-A0B8-CC83E113645F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Döviz_Ofisi_Editor", "Döviz_Ofisi_Editor\Döviz_Ofisi_Editor.vdproj", "{00480604-94D9-47BC-A5F8-0C3F0124DE02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55C9CCD8-BBE3-4588-A0B8-CC83E113645F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C9CCD8-BBE3-4588-A0B8-CC83E113645F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C9CCD8-BBE3-4588-A0B8-CC83E113645F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C9CCD8-BBE3-4588-A0B8-CC83E113645F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00480604-94D9-47BC-A5F8-0C3F0124DE02}.Debug|Any CPU.ActiveCfg = Debug
+		{00480604-94D9-47BC-A5F8-0C3F0124DE02}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {028EDECE-BC68-49A7-8998-F68246B7B059}
+	EndGlobalSection
+EndGlobal
